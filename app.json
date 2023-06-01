@@ -5,12 +5,12 @@
       "value": "/!."
     },
     "TOKEN": {
-      "description": "Your bot token, as a string.",
+      "description": "6097190824:AAHb7yvKobD8qVFTJulCCxKv1e_OO4OK05s",
       "value": "",
       "required": true
     },
     "OWNER": {
-      "description": "Owner user_id.",
+      "description": "5584359752",
       "value": "",
       "required": true
     },
